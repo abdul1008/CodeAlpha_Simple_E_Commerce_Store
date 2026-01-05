@@ -13,22 +13,22 @@ This project is built using modern web technologies and serves as a strong found
 
 ✨ Features
 
-User authentication (Login & Register)
-
-Product listing with categories
-
-Search and filter products
-
-Add to cart & remove from cart
-
-Order placement and summary
+  User authentication (Login & Register)
+  
+  Product listing with categories
+  
+  Search and filter products
+  
+  Add to cart & remove from cart
+  
+  Order placement and summary
 
 Admin dashboard for product management
 
 🛠 Tech Stack
 
-Frontend: HTML, CSS, JavaScript / React
-
-Backend: Node.js, Express
-
-Database: MongoDB
+  Frontend:  React Js, Tailwind CSS
+  
+  Backend: Node.js, Express JS
+  
+  Database: MongoDB
